@@ -8,7 +8,7 @@ on:
       username:
         description: 'A username passed from the caller workflow'
         default: 'Trimukesh'
-        required: false
+        required: true
         type: string
 
 jobs:
