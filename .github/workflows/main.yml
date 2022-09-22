@@ -7,7 +7,6 @@ on:
     inputs:
       username:
         description: 'A username passed from the caller workflow'
-        default: 'Trimukesh'
         required: true
         type: string
 
